@@ -1,0 +1,47 @@
+.App {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	padding: 20px;
+}
+
+.App h1 {
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+
+.App button {
+	margin: 10px;
+	padding: 10px 20px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.App ul {
+	list-style: none;
+	padding: 0;
+	margin: 20px 0;
+}
+
+.App li {
+	margin: 10px 0;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+.App li h3 {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.App li p {
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+
+.App li button {
+	margin-right: 10px;
+	padding: 5px 10px;
+	font-size: 14px;
+	cursor: pointer;
+}
